@@ -1,0 +1,15 @@
+C:\Users\mygle\Desktop\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mygle\Desktop\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\mygle\Desktop\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.AssemblyInfo.cs
+C:\Users\mygle\Desktop\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\mygle\Desktop\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.sourcelink.json
+C:\Users\mygle\Desktop\Repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.exe
+C:\Users\mygle\Desktop\Repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.deps.json
+C:\Users\mygle\Desktop\Repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.runtimeconfig.json
+C:\Users\mygle\Desktop\Repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.dll
+C:\Users\mygle\Desktop\Repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.pdb
+C:\Users\mygle\Desktop\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.dll
+C:\Users\mygle\Desktop\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\refint\OperatorExercise.dll
+C:\Users\mygle\Desktop\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.pdb
+C:\Users\mygle\Desktop\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.genruntimeconfig.cache
+C:\Users\mygle\Desktop\Repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\ref\OperatorExercise.dll
